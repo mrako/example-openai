@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "loading-cli": "^1.1.0",
+    "openai": "^3.2.1",
+    "ora": "^6.3.0",
+    "readline-sync": "^1.4.10"
+  }
+}
